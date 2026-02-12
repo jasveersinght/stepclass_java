@@ -2,6 +2,6 @@ package jas;
 
 public class jva {
     public static void main(String[] args){
-        System.out.println("hello 480");
+        System.out.println("hello world");
     }
 }
